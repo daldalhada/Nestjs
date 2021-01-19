@@ -4,10 +4,10 @@
 
 <br>
 
-<p>
-  <h2 align="center">LEARNING NESTJS</h2>
-  <h2 align="center"><a href="https://github.com/daldalhada/nestjs/blob/master/description/nestjs.md">NESTJS</a></h2>
-</p>
+
+<h3 align="center">LEARNING NESTJS</h3>
+<h3 align="center"><a href="https://github.com/daldalhada/nestjs/blob/master/description/nestjs.md">NESTJS</a></h3>
+
 
 <br>
 
