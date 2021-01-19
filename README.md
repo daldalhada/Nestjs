@@ -13,4 +13,4 @@
 <br>
 
 ### 1. Nestjs
-  - [1-1 Nestjs](https://github.com/daldalhada/nestjs/blob/master/description/1-1.md)
+  - [1-1 Nestjs](https://github.com/daldalhada/Nestjs/blob/master/description/1/1-1.md)
