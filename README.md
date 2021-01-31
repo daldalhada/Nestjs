@@ -23,3 +23,6 @@
 
 ### 3. UNIT TESTING
   - [3-1 Unit Test](https://github.com/daldalhada/Nestjs/blob/master/description/3/3-1.md)
+
+### 4. E2E TESTING
+  - [4-1 E2E Test](https://github.com/daldalhada/Nestjs/blob/master/description/4/4-1.md)
